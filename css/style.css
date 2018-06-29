@@ -1,0 +1,12 @@
+body{
+    background: darkred;
+}
+
+main {
+    border-radius: 5px;
+    background: fuchsia;
+}
+
+h1 {
+    color: white;
+}
