@@ -1,12 +1,18 @@
 body{
-    background: darkred;
+    background: white;
 }
 
-main {
+footer {
+    font-size: 1.3em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    background:rgb(95, 177, 18); 
+    border: solid goldenrod 8px; 
     border-radius: 5px;
-    background: fuchsia;
+
 }
 
-h1 {
-    color: white;
+.footer {
+    text-align: center;
 }
+   
