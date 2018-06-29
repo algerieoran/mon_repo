@@ -1,5 +1,4 @@
 body{
-<<<<<<< HEAD
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
     padding: 0;
@@ -57,9 +56,6 @@ nav a:hover{
 }
 
 /* fin navigation */
-=======
-    background: white;
-}
 
 footer {
     font-size: 1.3em;
@@ -75,4 +71,3 @@ footer {
     text-align: center;
 }
    
->>>>>>> origin/essai1
