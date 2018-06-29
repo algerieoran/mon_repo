@@ -1,13 +1,17 @@
 body{
-    background: peru;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
 }
 
+
+
 main{
-    width: 80%;
-    height: 500px;
-    border: 1px black solid;
-    border-radius: 10px;
+    width: 100%;
+    height: auto;
 }
+
+
 
 p{
     font-family: 'Courier New', Courier, monospace;
